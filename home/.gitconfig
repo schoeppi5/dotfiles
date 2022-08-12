@@ -1,0 +1,7 @@
+[user]
+	name = philipp.schoeppner
+	email = philipp.schoeppner@fntsoftware.com
+[core]
+	editor = vim
+[pull]
+	rebase = true
